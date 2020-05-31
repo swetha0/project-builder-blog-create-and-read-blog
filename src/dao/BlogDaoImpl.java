@@ -61,4 +61,3 @@ public class BlogDaoImpl implements BlogDaoInterface
 		return list;
 	}
 }
-© 2020 GitHub, Inc.
